@@ -1,4 +1,4 @@
-# projeto_api_front-end
+# Rickmortyapi
 
 ## Project setup
 ```
